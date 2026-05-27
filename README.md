@@ -115,5 +115,5 @@ downloaded_manga/
 
 ## 🏆 作業成果
 
-- GitHub Repository：
-- 執行成果影片：
+- GitHub Repository：https://github.com/wuchean1004/AIPE03-PythonWebScraping-Homework
+- 執行成果影片：https://reurl.cc/A9WeNQ
