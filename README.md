@@ -25,12 +25,12 @@ https://www.mangaz.com/book/detail/157901
 ```text
 AIPE03_PythonWebScraping作業_42_吳哲安/
 │
-├── assignment01_scraper.py
-├── Assignment01_動態爬蟲案例_mangaz_練習版.ipynb
-├── ReadMe_by_Teacher.md
-├── README.md
+├── downloaded_manga/
 ├── project_gutenberg/
-└── downloaded_manga/
+├── Assignment01_動態爬蟲案例_mangaz_練習版.ipynb
+├── assignment01_scraper.py
+├── README.md
+└── requirements.txt
 ```
 
 ## 🧰 環境需求
